@@ -2,7 +2,6 @@ body {
   font-family: Helvetica, sans-serif;
   margin: 0;
   background-color: #b4cee1;
-
 }
 
 /*https://coolors.co. Good tool for picking color themes for websites*/
@@ -36,7 +35,6 @@ h1 {
   margin-left: 20px;
   /*rounded corners of the box*/
   border-radius: 5px;
-
 }
 
 h2 {
@@ -87,8 +85,7 @@ img {
 
 }
 
+/*To create a color change on hover*/
 #footer h2 a:hover {
   color: #129490;
 }
-
-/*To create a color change on hover*/
